@@ -6,7 +6,7 @@
  }
 
  body {
-     background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
+     background: linear-gradient(135deg, #b87005 0%, #0e02af 100%);
      min-height: 100vh;
      display: flex;
      justify-content: center;
@@ -136,7 +136,7 @@
  }
 
  .unit-btn {
-     background: #6a11cb;
+     background: #450688;
      margin: 0 5px;
      padding: 8px 15px;
      font-size: 14px;
