@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const unitButtons = document.querySelectorAll(".unit-btn");
 
   // State
-  let currentUnit = "metric";
+  let currentUnit = "metric"; 
   let lastSearchedCity = "";
 
   // Event Listeners
@@ -142,5 +142,4 @@ document.addEventListener("DOMContentLoaded", function () {
     errorDisplay.style.display = "none";
   }
 });
-
 
